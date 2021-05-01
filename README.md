@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-emre-yalcin&label=Profile%20views&color=0e75b6&style=flat" alt="m-emre-yalcin" /> </p>
 
-- 🔭 I’m currently working on **a social blogging software**
+- 🔭 I’m currently working on **a social blogging platform**
 
 - 🌱 I’m currently learning **Python, Koa.js, React**
 
