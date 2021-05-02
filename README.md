@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **a social blogging platform**
 
-- 🌱 I’m currently learning **Python, Koa.js, React**
+- 🌱 I’m currently learning **Express, GraphQL, React**
 
 - 💬 Ask me about **vue**
 
