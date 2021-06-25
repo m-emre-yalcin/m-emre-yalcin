@@ -13,7 +13,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-emre-yalcin&show_icons=true&locale=en&layout=compact" alt="m-emre-yalcin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-emre-yalcin&show_icons=true&locale=en" alt="m-emre-yalcin" /></p>
 
 
 <br>
