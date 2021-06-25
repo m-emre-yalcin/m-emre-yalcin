@@ -15,8 +15,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-emre-yalcin&show_icons=true&locale=en" alt="m-emre-yalcin" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=m-emre-yalcin&theme=buddhism&rank=S,AAA)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <br>
 <br>
