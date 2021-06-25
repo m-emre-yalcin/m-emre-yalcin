@@ -2,15 +2,6 @@
 
 <p>I am an autodidactic software engineer who tries to find his place in this world by grasping the digital environments and human psychology.</p>
 
-- 🔭 I’m currently working on **a social blogging platform**
-
-- 🌱 I’m currently learning **Express, GraphQL, React**
-
-- 💬 Ask me about **vue**
-
-- 📫 How to reach me **emrreyalcin@gmail.com**
-
-- ⚡ Fun fact **i am 1650 millimeters height😃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
