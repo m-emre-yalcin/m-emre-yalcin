@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emre Yalcin</h1>
-
-<p>I am an autodidactic software engineer who tries to find his place in this world by grasping the digital environments and human psychology.</p>
+<p>I am an autodidactic software engineer who tries to find his purpose by grasping the digital environments and human psychology.</p>
 
 
 <h3 align="left">Connect with me:</h3>
