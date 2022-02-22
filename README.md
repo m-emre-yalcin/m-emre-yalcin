@@ -1,9 +1,3 @@
-<div align="center">
-<img width="100%" height = "350px" src="https://wallpaperaccess.com/full/3088792.jpg" alt="cover" />
-</div>
-
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-
 <div size='20px'> Hi!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> My name is Emre. Thank You for taking the time to view my GitHub Profile 🙂
 </div>
 
