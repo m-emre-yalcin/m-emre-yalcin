@@ -1,4 +1,4 @@
-<div> Hi!<img width="20px" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> I my name is Emre. Thank you for taking the time to view my profile🙂
+<div> Hi!<img width="20px" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> My name is Emre. Thank you for taking the time to view my profile🙂
 </div>
 
 <h2>About Me</h2>
