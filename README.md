@@ -1,10 +1,9 @@
-<div size='20px'> Hi!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> My name is Emre. Thank You for taking the time to view my GitHub Profile 🙂
+<div> Hi!<img width="20px" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> I my name is Emre. Thank you for taking the time to view my profile🙂
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2>About Me</h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 
 - 🔭 I’m currently working on my social network project [Lorinto](lorinto.com) and my open-source back-end framework [Mavi](https://github.com/m-emre-yalcin/mavi)
 
