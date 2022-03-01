@@ -23,7 +23,7 @@
 <a href= https://github.com/m-emre-yalcin?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
 <a href= https://github.com/m-emre-yalcin?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
 <a href= https://github.com/m-emre-yalcin?tab=repositories&q=&type=&language=photoshop&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
-<span title="there is more"><img src="https://cdn-icons.flaticon.com/png/512/6057/premium/6057585.png?token=exp=1646105533~hmac=dcc592d511e0363f0d653efd99fe1ace" width="32px" height="32px"/></span>
+<a href="https://my.indeed.com/p/memrey-9dniuio" title="more"><img src="https://cdn-icons.flaticon.com/png/512/6057/premium/6057585.png?token=exp=1646105533~hmac=dcc592d511e0363f0d653efd99fe1ace" width="32px" height="32px"/></a>
 
 
 <h2> Connect with me </h2>
