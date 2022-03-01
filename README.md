@@ -24,12 +24,10 @@
 <a href= https://github.com/m-emre-yalcin?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
 <a href= https://github.com/m-emre-yalcin?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
 <a href= https://github.com/m-emre-yalcin?tab=repositories&q=&type=&language=photoshop&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
+<span title="there is more"><img src="https://cdn-icons.flaticon.com/png/512/6057/premium/6057585.png?token=exp=1646105533~hmac=dcc592d511e0363f0d653efd99fe1ace" width="32px" height="32px"/></span>
 
 
 <h2> Connect with me </h2>
 <a href = 'https://www.twitter.com/99emreyalcin'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/m-emre-yalcin'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-<a href = 'https://my.indeed.com/p/memrey-9dniuio'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-
-
-![Metrics](https://metrics.lecoq.io/m-emre-yalcin?template=classic&base.community=0&base.repositories=0&isocalendar=1&languages=1&stars=1&introduction=1&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&introduction.title=true&config.timezone=Europe%2FIstanbul&config.octicon=true&config.display=large)
+&nbsp;
+<a style="padding-left: 20px !important;" href = 'https://my.indeed.com/p/memrey-9dniuio'> <img width = '32px' align= 'center' src="https://cdn-icons.flaticon.com/png/512/2195/premium/2195529.png?token=exp=1646105174~hmac=466d8eded2b1145f7941eba9fd32e159"/></a> 
