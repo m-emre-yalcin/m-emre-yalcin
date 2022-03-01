@@ -28,8 +28,8 @@
 
 
 <h2> Connect with me </h2>
-<a href = 'https://www.twitter.com/99emreyalcin'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-&nbsp;
 <a style="padding-left: 20px !important;" href = 'https://my.indeed.com/p/memrey-9dniuio'> <img width = '32px' align= 'center' src="https://cdn-icons.flaticon.com/png/512/2195/premium/2195529.png?token=exp=1646105174~hmac=466d8eded2b1145f7941eba9fd32e159"/></a> 
+&nbsp;
+<a href = 'https://www.twitter.com/99emreyalcin'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 &nbsp;
 <a href = 'https://stackoverflow.com/users/10639354/m-emre-yal%c3%a7%c4%b1n'> <img width = '32px' align= 'center' src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png"/></a> 
