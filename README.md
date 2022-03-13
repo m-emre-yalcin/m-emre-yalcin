@@ -1,5 +1,5 @@
 <h2>About Me</h2>
-<img width="25%" align="right" alt="Github" src="https://github.com/m-emre-yalcin/portfolio/blob/master/public/world-transparent.png" />
+<img width="22%" align="right" alt="Github" src="https://i.imgur.com/norONJI_d.webp?maxwidth=760&fidelity=grand" />
 
 - 🔭 I’m currently working on my social network project [Lorinto](lorinto.com) and my open-source back-end framework [Mavi](https://github.com/m-emre-yalcin/mavi)
 
