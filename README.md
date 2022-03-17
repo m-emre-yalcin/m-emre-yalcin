@@ -27,7 +27,7 @@
 
 
 <h2> Connect with me </h2>
-<a style="padding-left: 20px !important;" href = 'https://my.indeed.com/p/memrey-9dniuio'> <img width = '32px' align= 'center' src="https://cdn-icons.flaticon.com/png/512/2195/premium/2195529.png?token=exp=1646105174~hmac=466d8eded2b1145f7941eba9fd32e159"/></a> 
+<a style="padding-left: 20px !important;" href = 'https://my.indeed.com/p/memrey-9dniuio'> <img width = '32px' align= 'center' src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/17678423571582884273-512.png"/></a> 
 &nbsp;
 <a href = 'https://www.twitter.com/99emreyalcin'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 &nbsp;
