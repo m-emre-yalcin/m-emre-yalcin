@@ -1,13 +1,9 @@
 <h2>About Me</h2>
 <img width="22%" align="right" alt="Github" src="https://i.imgur.com/norONJI_d.webp?maxwidth=760&fidelity=grand" />
 
-- 🔭 I’m currently working on my social network project [Lorinto](https://lorinto.com) and my open-source back-end framework [Mavi](https://github.com/m-emre-yalcin/mavi)
+I am just a software engineer. Currently working on my social network project [Lorinto](https://lorinto.com) and my open-source back-end framework [Mavi](https://github.com/m-emre-yalcin/mavi). I do like to talk about games, technology, and existential subjects🙂
 
-- 🌱 I’m currently learning react, react-native and expo
-
-- 💬 Talk to me about technology, games, and the existence
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2>My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/m-emre-yalcin?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/m-emre-yalcin?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
 <a href= https://github.com/m-emre-yalcin?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
@@ -26,7 +22,6 @@
 <a href= https://github.com/m-emre-yalcin?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
 <a href= https://github.com/m-emre-yalcin?tab=repositories&q=&type=&language=photoshop&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
 <a href="https://my.indeed.com/p/memrey-9dniuio" title="more"><img src="https://cdn.icon-icons.com/icons2/488/PNG/512/more_47707.png" width="32px" height="32px"/></a>
-
 
 <h2> Connect with me </h2>
 <a style="padding-left: 20px !important;" href = 'https://my.indeed.com/p/memrey-9dniuio'> <img width = '32px' align= 'center' src="https://pngimg.com/uploads/cv/cv_PNG12.png"/></a> 
