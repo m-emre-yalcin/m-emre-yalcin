@@ -24,7 +24,7 @@ I am just a software engineer. Currently working on my social network project [L
 <a href="https://my.indeed.com/p/memrey-9dniuio" title="more"><img src="https://cdn.icon-icons.com/icons2/488/PNG/512/more_47707.png" width="32px" height="32px"/></a>
 
 <h2> Connect with me </h2>
-<a style="padding-left: 20px !important;" href = 'https://my.indeed.com/p/memrey-9dniuio'> <img width = '32px' align= 'center' src="https://pngimg.com/uploads/cv/cv_PNG12.png"/></a> 
+<a style="padding-left: 20px !important;" href = 'https://www.linkedin.com/in/m-emre-yal%C3%A7%C4%B1n-9991aa172/'> <img width = '32px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png"/></a> 
 &nbsp;
 <a href = 'https://www.twitter.com/99emreyalcin'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 &nbsp;
