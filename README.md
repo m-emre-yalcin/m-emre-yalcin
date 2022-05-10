@@ -1,4 +1,4 @@
-<img width="22%" align="right" alt="Github" src="https://i.imgur.com/norONJI_d.webp?maxwidth=760&fidelity=grand" />
+<img width="12%" align="left" alt="Github" src="https://i.imgur.com/norONJI_d.webp?maxwidth=760&fidelity=grand" />
 
 I am a software engineer. Currently working on my social network project [Lorinto](https://lorinto.com) and my open-source back-end framework [Mavi](https://github.com/m-emre-yalcin/mavi).
 
