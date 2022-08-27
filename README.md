@@ -35,6 +35,3 @@
 <div align="center">
   <img height="200" src="https://i.imgur.com/norONJI_d.webp?maxwidth=760&fidelity=grand"  />
 </div>
-
-###
-Profile Readme Generator
