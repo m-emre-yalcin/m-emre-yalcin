@@ -8,6 +8,3 @@ Away from the keyboard you'll find me running or biking, playing blues on my ele
   <sub><a href="https://emre-yalcin.de">Portfolio</a> · <a href="https://emre-yalcin.de/cv">CV</a> · <a href="https://www.linkedin.com/in/m-emre-yalcin/">LinkedIn</a> · <a href="mailto:emrreyalcin@gmail.com">emrreyalcin@gmail.com</a></sub>
 </p>
 
-<p align="right">
-  <img src="assets/little_ponyo.png" width="58" alt="some things stay" title="some things stay">
-</p>
